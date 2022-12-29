@@ -1,5 +1,3 @@
-import time
+Index = input()
 
-while True:
-  print('Ok')
-  time.sleep(30)
+print('index=' + Index)
